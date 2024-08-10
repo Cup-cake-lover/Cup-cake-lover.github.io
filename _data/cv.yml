@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hari Prasad Sreekrishnapurath Variyam
     - name: Date of Birth
-      value: 14th March 1879
+      value: 12 November 2002
     - name: Languages
-      value: English, German
+      value: English, Hindi, Malayalam (Bilingual or working proficiency) Sanskrit, Tamil, German (Basic Proficiency)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MS Physics
+      institution: Universität zu Köln
+      year: 2023 - Present
       description:
         - Description 1.
         - Description 2.
