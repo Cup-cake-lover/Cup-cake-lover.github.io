@@ -35,6 +35,14 @@ nav_order: 4
 {% endif %}
 {% endif %}
 
+
+
+![Snake Animation](assets/snake.svg)
+
+
+
+
+
 ## GitHub Repositories
 
 {% if site.data.repositories.github_repos %}
