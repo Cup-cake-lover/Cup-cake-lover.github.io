@@ -23,13 +23,22 @@
       "startDate": "2024-08-01",
       "endDate": "",
       "summary": "Currently working as a research intern in the Applied Machine Learning (AML) group at the Brain and Behaviour Institute (INM-7). The focus is on exploring machine learning techniques in brain imaging data."
+    },
+
+    {
+      "name": "Web development",
+      "position": "Freelance developer",
+      "url": "",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Currently working as freelance developer for a startup"
     }
 ]
 ,
   "education": [
     {
-      "institution": "University of Cologne",
-      "location": "Cologne, Germany",
+      "institution": "University of Cologne , University of Bonn",
+      "location": "Germany",
       "url": "https://www.gradschool.physics.uni-koeln.de",
       "area": "Physics",
       "studyType": "Master",
@@ -39,8 +48,8 @@
     }
 ,
     {
-      "institution": "St. Stephen's College",
-      "location": "Delhi, India",
+      "institution": "St. Stephen's College, Delhi",
+      "location": "India",
       "url": "https://www.ststephens.edu/",
       "area": "Physics",
       "studyType": "Bachelor",
