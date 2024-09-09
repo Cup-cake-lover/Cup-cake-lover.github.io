@@ -54,7 +54,7 @@ The main goal of this project is to extract features from epileptic data and per
 <h1> Aquiring data and Denoising </h1>
 
 
-First, I will describe the basic methodology we will follow. The first step is to obtain a reliable dataset. For this project, I am using a standard dataset that is commonly available: the Bonn EEG dataset <d-cite key="PhysRevE.64.0619070112793"></d-cite> . It is both easy to use and reliable, containing data with both normal and epileptic signatures. The dataset is divided into five categories: A, B, C, D, and E.
+First, I will describe the basic methodology we will follow. The first step is to obtain a reliable dataset. For this project, I am using a standard dataset that is commonly available: the Bonn EEG dataset <d-cite key="PhysRevE.64.061907"></d-cite> . It is both easy to use and reliable, containing data with both normal and epileptic signatures. The dataset is divided into five categories: A, B, C, D, and E.
 
 
 
