@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: git
+title: Git
 description: You can find my details of my github profile @Cup-cake-lover here!.
 nav: true
 nav_order: 4
@@ -34,13 +34,6 @@ nav_order: 4
 {% endfor %}
 {% endif %}
 {% endif %}
-
-
-
-![Snake Animation](assets/snake.svg)
-
-
-
 
 
 ## GitHub Repositories

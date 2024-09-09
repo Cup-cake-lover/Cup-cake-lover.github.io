@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about me
+title: About me
 permalink: /
 subtitle: <a href='#'>University of Cologne</a>. Zulpicher Str. Cologne. Germany.
 
