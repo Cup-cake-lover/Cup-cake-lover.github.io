@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: page
 title: Projects
 permalink: /projects/
-description: Here I want to showcase some detailed versions of some of my projects/research works!
+description: Feel free to browse through some of my projects. I am still in the process of formatting and adding detailed versions of some of them!
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+display_categories: [Computational neuroscience]
+horizontal: False
 ---
 
 <!-- pages/projects.md -->

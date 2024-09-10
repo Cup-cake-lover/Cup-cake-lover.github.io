@@ -2,9 +2,12 @@
 layout: distill
 title: Epilepsy Detection Using Non-Linear Feature Analysis
 description: A baseline setup
+date: 2024-09-09
+tags: Epilepsy,EEG,Non-linear features
+
 img: assets/img/EEG_featureextractor_proj/EEG_project_thumb.jpg
 importance: 1
-category: work
+category: Computational neuroscience
 related_publications: true
 
 
@@ -618,7 +621,7 @@ class EpilepsyFeatureExtractor:
             axs[i].set_ylabel(pair_labels[i][1])
             axs[i].set_title(f'{pair_labels[i][0]} vs {pair_labels[i][1]}')
 
-        plt.tight_layout()
+  dot.tight_layout()
         plt.show()
 
 # Example usage:
