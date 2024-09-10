@@ -43,7 +43,7 @@ The main goal of this project is to extract features from epileptic data and per
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/methodology.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/methodology.JPG" title="Methodology" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -60,7 +60,7 @@ First, I will describe the basic methodology we will follow. The first step is t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/datadesc.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/datadesc.png" title="description of data" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -70,13 +70,13 @@ First, I will describe the basic methodology we will follow. The first step is t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/Normal_EEG.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/Normal_EEG.png" title="set A" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/Normal_EEGB.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/Normal_EEGB.png" title="set B" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/Epileptic_EEG.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/Epileptic_EEG.png" title="set E" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -125,7 +125,7 @@ Now that we have a dataset, the next step is to perform denoising. To achieve th
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/subband.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/subband.png" title="Decomposition" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -230,7 +230,7 @@ It is important to note that the first 160 data points are from non-epileptic da
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/statfeatureresults.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/statfeatureresults.png" title="Statistical features" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -323,7 +323,7 @@ We get the following result,
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/chaoticfeatureresults.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/chaoticfeatureresults.png" title="Nonlinear features" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -360,7 +360,7 @@ And the resultant plot looks like this,
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/twodfeatureplots.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/EEG_featureextractor_proj/twodfeatureplots.png" title="2D Feature plots" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
