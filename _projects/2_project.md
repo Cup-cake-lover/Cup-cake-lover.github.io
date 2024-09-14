@@ -7,7 +7,7 @@ tags: Synchronisation, Brain
 img: assets/img/Neural_sync/Neural_synchrony_project_thumb.png
 importance: 2
 category: Computational neuroscience
-related_publications: true
+related_publications: false
 
 ---
  

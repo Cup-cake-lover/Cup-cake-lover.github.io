@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: <a href='#'>University of Cologne</a>. Zulpicher Str. Cologne. Germany.
+subtitle: <a href='https://www.uni-koeln.de/'>University of Cologne</a>. Zulpicher Str. Cologne. Germany.
 
 profile:
   align: left
@@ -14,7 +14,7 @@ profile:
   #  <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
