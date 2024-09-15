@@ -39,7 +39,7 @@ The Eden Growth model we are using is based on probabilistic cellular automata (
 
 ### The rules
 
-Keeping these assumptions, A set of CA rules are constructed which are as follows. The simulations are done on a $$N \times N$$ square grid. Hence there are $$N^2$$ accessible cells. For an underlying model an Eden clustering algorithm\cite{Eden1961ATG} is proposed. Basic rules are as follows,
+Keeping these assumptions, A set of CA rules are constructed which are as follows. The simulations are done on a $$N \times N$$ square grid. Hence there are $$N^2$$ accessible cells. For an underlying model an Eden clustering algorithm is proposed. Basic rules are as follows,
 
 - A cell is only reproducible/ creates an adjacent neighbour if it's 'Alive'.
 - A cell can only grow into an 'idle' cell.
@@ -57,7 +57,7 @@ $$
 
 Now to simulate multiple tree clusters on the same lattice and for each tree to sense each other, every tree node is uniquely labelled. And we propose a new model with two new rules added further.
 
-- A generalized neumann neighbourhood is considered when a new cell is populated, this generalized Neumann neighbourhood is based on the exclusion distance ($r$) which can be controlled.
+- A generalized neumann neighbourhood is considered when a new cell is populated, this generalized Neumann neighbourhood is based on the exclusion distance ($$r$$) which can be controlled.
 
 - While growing each cluster without forming loops, All new alive cell is adhered to follow these rules. 
 
