@@ -301,6 +301,31 @@ Finally, beautiful growth animations can also be created like this,
     Animation of an example growth
 </div>
 
+## Random seed distribution 
+
+The simulations can be ran with a random seed distribtuion on a much bigger grid with a more number of trees to create patterns which are more similar that are found in nature.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Eden_growths/Shyness_picture_2.png" title="Example result" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Growth with a random see distribution with 60 trees in 500x500 grid.
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Eden_growths/tree_growth_2.gif" title="Example result" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Growth with a random see distribution with 60 trees in 500x500 grid animated.
+</div>
+
+
+
 # Remarks
 
 So, what did I learn from this? It's clear that such a simple model can't fully capture the intricate dynamics of crown shyness. However, it was an extremely engaging coding exercise, and more importantly, it allowed me to explore a fascinating natural process that might otherwise go unnoticed. The journey itself understanding and implementing the Eden Growth model was a rewarding experience, even if the results were limited in terms of real-world application.
