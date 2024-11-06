@@ -39,9 +39,25 @@ bibliography: EEG_refs.bib
 
 ---
 
+
+<div class="links text-center d-flex justify-content-center">
+    <a href="https://arxiv.org/abs/2402.14819" class="mx-2" style="color: #007bff;">
+        <i class="fa fa-file-text fa-lg"></i> Paper
+    </a>
+    <a href="https://github.com/Cup-cake-lover/EEG_FeatureExtractor.git" class="mx-2" style="color: #333;">
+        <i class="fa fa-github fa-lg"></i> Code
+    </a>
+    <a href="/assets/pdf/slides/EEG_proj_slides.pdf" class="mx-2" style="color: #d9534f;">
+        <i class="fa fa-file-pdf fa-lg"></i> Slides
+    </a>
+</div>
+
+---
+
 Electroencephalography (EEG) has long been an essential tool in neuroscience and clinical neurology for monitoring brain activity. With its non-invasive nature, EEG enables real-time recording of electrical signals produced by neurons in the brain, making it invaluable for diagnosing neurological conditions like epilepsy. However, the analysis of EEG signals can be challenging due to their non-stationary and complex nature. Researchers need efficient tools to extract meaningful patterns from these signals, especially for applications like automated seizure detection.
 
-The main goal of this project is to extract features from epileptic data and perform classification to determine which types of features are most effective. As a baseline, we first extract statistical features from the time series and test how well they classify the data. Then, we apply the same classification tests using non-linear features. You can find all the project details on my GitHub repository: <a href="https://github.com/Cup-cake-lover/EEG_FeatureExtractor.git">EEG_FeatureExtractor</a>. 
+The main goal of this project is to extract features from epileptic data and perform classification to determine which types of features are most effective. As a baseline, we first extract statistical features from the time series and test how well they classify the data. Then, we apply the same classification tests using non-linear features.
+
 
 
 <div class="row">
@@ -241,7 +257,16 @@ It is important to note that the first 160 data points are from non-epileptic da
 </div>
 
 
-By plotting the statistical features, we can see that the features computed for non-epileptic data differ significantly from those computed for epileptic data. However, the mean does not seem to be a useful feature for classification in this case.
+By plotting the statistical features, we can see that the features computed for non-epileptic data differ significantly from those computed for epileptic data. However, the mean does not seem to be a useful feature for classification in this case. For a better a visualisation we can plot them in a 3D feature space as well;
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/EEG/rotan.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+
+
+
 
 
 <h2> Non-linear/Chaotic features </h2>
@@ -370,7 +395,14 @@ And the resultant plot looks like this,
     Feature space plots
 </div>
 
-Ha! There is a clear seperation within the feature space. This is a very good sign! since it clearly says that we can classify them nicely.
+Ha! There is a clear seperation within the feature space. This is a very good sign! since it clearly says that we can classify them nicely. To see this more clearly, we can plot them in a 3D feature space as well, by selecting three features from the feature set.
+
+<div class="row mt-3">
+    <div class="col-12">
+        {% include video.liquid path="assets/video/EEG/rotan_chao.mp4" class="img-fluid rounded z-depth-1 w-100" controls=true autoplay=true %}
+    </div>
+</div>
+
 
 
 
@@ -442,6 +474,9 @@ all_results['Feature Type'] = ['Statistical']*len(stat_results) + ['Chaotic']*le
 # Display the results
 print(all_results)
 {% endhighlight %}
+
+
+
 
 
 

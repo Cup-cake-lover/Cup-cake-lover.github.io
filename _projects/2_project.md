@@ -10,10 +10,21 @@ category: Computational neuroscience
 related_publications: false
 
 ---
+---
+
+<div class="links text-center d-flex justify-content-center">
+    <a href="https://github.com/Cup-cake-lover/Neural-Synchrony.git" class="mx-2" style="color: #333;">
+        <i class="fa fa-github fa-lg"></i> Code
+    </a>
+    <a href="/assets/pdf/slides/neuralsyncslides.pdf" class="mx-2" style="color: #d9534f;">
+        <i class="fa fa-file-pdf fa-lg"></i> Slides
+    </a>
+</div>
+---
  
 Synchronization is a remarkable emergent phenomenon observed in many natural systems, where independent components begin to exhibit collective behavior. This phenomenon can be found in biological, physical, and even social systems. For instance, fireflies synchronize their flashing, neurons in the brain fire together in rhythmic patterns, and even coupled pendulums tend to swing in unison over time. These systems, often described by nonlinear dynamics, display synchronization when individual elements interact with each other, leading to a collective coherence despite differences in initial conditions or external influences. 
 
-From the title, it should be clear to the reader that this article will detail an aspect of synchrony in the brain. Although it may be surprising to those new to the topic, synchrony is well-researched in the context of brain dynamics. In this article, I will outline how such a system can be studied through simulations. The full code (in an interactive Python notebook (.ipynb) file) is available in my GitHub repository: <a href="https://github.com/Cup-cake-lover/Neural-Synchrony.git">Neural-synchrony</a>.
+From the title, it should be clear to the reader that this article will detail an aspect of synchrony in the brain. Although it may be surprising to those new to the topic, synchrony is well-researched in the context of brain dynamics. In this article, I will outline how such a system can be studied through simulations.
 
 ## Synchronisation in dynamical systems
 
