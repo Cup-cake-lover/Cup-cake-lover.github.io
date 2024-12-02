@@ -22,14 +22,14 @@ horizontal: False
 - **Emergence of Neuronal synchronisation in coupled areas** 
   
   Event: Computational neuroscience course seminar \
-  Slides: [Slides.pdf](/assets/pdf/slides/colony_growth_models.pdf) \
+  Slides: [Slides.pdf](/assets/pdf/slides/neuralsyncslides.pdf) \
   Date: 24.06.2024  
   Location: University of Cologne
 
 - **Bacterial Colony growth - Theoretical overview and computational models** 
   
   Event: Biological Physics I course seminar \
-  Slides: [Slides.pdf](/assets/pdf/slides/colony_growth_models.pdf) \
+  Slides: [Slides.pdf](/assets/pdf/slides/Colony_growth_models.pdf) \
   Date: 24.01.2024  
   Location: University of Cologne
 
