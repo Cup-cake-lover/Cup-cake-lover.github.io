@@ -14,7 +14,7 @@ related_publications: false
 
 <div class="links text-center d-flex justify-content-center">
     <a href="https://github.com/Cup-cake-lover/Neural-Synchrony.git" class="mx-2" style="color: #333;">
-        <i class="fa fa-github fa-lg"></i> Code
+        <i class="fab fa-github fa-lg"></i> Code
     </a>
     <a href="/assets/pdf/slides/neuralsyncslides.pdf" class="mx-2" style="color: #d9534f;">
         <i class="fa fa-file-pdf fa-lg"></i> Slides

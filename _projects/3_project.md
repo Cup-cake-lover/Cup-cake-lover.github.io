@@ -15,7 +15,7 @@ bibliography: eden.bib
 
 <div class="links text-center d-flex justify-content-center">
     <a href="https://github.com/Cup-cake-lover/Eden_cluster_growthtests.git" class="mx-2" style="color: #333;">
-        <i class="fa fa-github fa-lg"></i> Code
+        <i class="fab fa-github fa-lg"></i> Code
     </a>
 </div>
 ---
