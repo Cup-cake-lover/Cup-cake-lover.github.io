@@ -5,7 +5,7 @@ permalink: /projects/
 description: Feel free to browse through some of my projects. I am still in the process of formatting and adding detailed versions of some of them!
 nav: true
 nav_order: 3
-display_categories: [Computational neuroscience, Fun]
+display_categories: [Computational neuroscience, Machine learning, Fun]
 horizontal: False
 ---
 
