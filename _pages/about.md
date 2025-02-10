@@ -18,8 +18,11 @@ selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am Hari Prasad SV. (For a longer name please checkout the CV page :P). I am currently a masters student in Physics as part of the Bonn-Cologne graduate school for Physics and Astronomy. I am affiliated with University of Cologne. 
+# About Me
 
-My primary interests include Non-equillibrium statistical physics, Computational neuroscience, complex systems and machine learning. 
+Hi! I'm Hari Prasad SV. (For my full name, check out my CV page! :P)
 
-Feel free to browse through my projects (page currently under construction!)! In case if you have suggestions/comments mail me at [hpvariyar@gmail.com](mailto:hpvariyar@gmail.com)
+I am currently a master's student in Physics at the Bonn-Cologne Graduate School for Physics and Astronomy, affiliated with the University of Cologne. My primary interests include nonequilibrium statistical physics, computational neuroscience, complex systems, and machine learning.
+
+Feel free to browse through some of my projects (though the page is still updating!). If you have any suggestions or comments, drop me an email at [hpvariyar@gmail.com](mailto:hpvariyar@gmail.com). I'd love to hear from you!
+
