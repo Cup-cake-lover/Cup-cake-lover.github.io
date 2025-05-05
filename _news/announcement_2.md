@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ended my internship position at Forschungzentrum-Jülich, Jülich, Germany. 
+Ended the internship position at Forschungzentrum-Jülich, Jülich, Germany. 

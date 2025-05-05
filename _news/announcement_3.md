@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my master's program at the University of Cologne.
+Started my master's program at the University of Cologne.
