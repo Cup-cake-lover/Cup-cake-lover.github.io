@@ -6,7 +6,7 @@ subtitle: <a href='https://www.uni-koeln.de/'>University of Cologne</a>. Zulpich
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: blur_profile.jpg
   image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>555 your office number</p>
