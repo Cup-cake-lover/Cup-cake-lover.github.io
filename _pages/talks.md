@@ -10,6 +10,19 @@ horizontal: False
 ---
 
 # Talks Delivered
+## 2026
+- **Flash talk - High Density Multi-electrode Array based Neuronal Targeting via Illuminated Stimuli** 
+  
+  Event: Neurizons - A multidisciplinary biennial Neuroscience conference \
+  Date: 20.05.2026  
+  Location: Max Planck Institute for Multidisciplinary Sciences, Göttingen
+
+- **Bilateral exchange symposium** 
+  
+  Event: Bilateral exchange between CIDBN Göttingen and LBB, ETH Zürich \
+  Date: 07.01.2026  
+  Location: ETH Zürich, Zürich
+
 
 ## 2024
 - **Bacterial Warfare - A curious story of Evolutionary strategies** 
